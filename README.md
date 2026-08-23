@@ -32,7 +32,7 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ### Data Analytics
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,7 +44,6 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Traditional_ML-102230?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
 
@@ -60,8 +59,7 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 
 ### Cloud ML
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 
 
@@ -97,7 +95,7 @@ Python • Scikit-learn • ZenML • MLflow • Docker • GitHub Actions
 
 ### Zomato Dish Recommendation System
 
-Machine learning based recommendation system for recommending dishes using restaurant and food data.
+Machine-learning-based recommendation system for recommending dishes using restaurant and food data.
 
 **Technologies:**  
 Python • Pandas • Scikit-learn • EDA • Recommendation Systems
