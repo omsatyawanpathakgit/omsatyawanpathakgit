@@ -117,27 +117,27 @@ SQL • MS Excel • Power BI • EDA
 
 ## Architecture followed for these projects:
 Raw Data
-   ↓
+   →
 Data Preprocessing and Cleaning
-   ↓
+   →
 Feature Engineering
-   ↓
+   →
   EDA
-   ↓
+   →
 Model Training
-   ↓
+   →
 Experiment Tracking
    │
  MLflow
-   ↓
+   →
 ZenML Pipeline
-   ↓
+   →
 Model Artifact
-   ↓
+   →
 Docker
-   ↓
+   →
 GitHub Actions
-   ↓
+   →
 Deployment / AWS SageMaker
 
 
