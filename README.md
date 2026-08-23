@@ -103,7 +103,7 @@ Python • Pandas • Scikit-learn • EDA • Recommendation Systems
 [View Project](https://github.com/omsatyawanpathakgit/DataScienceProjects/tree/main/Zomato%20Cusine%20Recommender%20System%20Project)
 
 
-### Data Analytics Project
+### All Data Analytics Projects:
 
 Interactive data analysis and business intelligence project.
 
