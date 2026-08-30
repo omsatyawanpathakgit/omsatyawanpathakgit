@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Data Analytics • Data Science • MLOps
+Data Analytics • Data Science
 </h3>
 
 <p align="center">
