@@ -48,22 +48,6 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
 
 
-### MLOps
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![ZenML](https://img.shields.io/badge/ZenML-7B3FF2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-### Cloud ML
-
-![AWS SageMaker](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-
-
-
 ## Skills:
 
 | Domain | Technologies |
@@ -73,8 +57,6 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 | Machine Learning | Regression, Classification, Clustering, Feature Engineering |
 | NLP | Text Preprocessing, Vectorization, ML-based NLP |
 | Deep Learning | Neural Networks, CNN, LSTM |
-| MLOps | MLflow, ZenML, Docker, GitHub Actions |
-| Cloud ML | AWS SageMaker |
 
 
 
@@ -115,41 +97,6 @@ SQL • MS Excel • Power BI • EDA
 
 
 
-## Architecture followed for these projects:
-Raw Data
-   →
-Data Preprocessing and Cleaning
-   →
-Feature Engineering
-   →
-  EDA
-   →
-Model Training
-   →
-Experiment Tracking
-   │
- MLflow
-   →
-ZenML Pipeline
-   →
-Model Artifact
-   →
-Docker
-   →
-GitHub Actions
-   →
-Deployment / AWS SageMaker
-
-
-
-
-
-## Connect Now:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/om-satyawan-pathak-029b02368/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
   <a href="mailto:omsatyawanpathakgit@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
