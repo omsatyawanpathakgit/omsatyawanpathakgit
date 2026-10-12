@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Data Analytics • Data Science
+Data Analytics • Data Science • ML Engineering • BI Developer
 </h3>
 
 <p align="center">
