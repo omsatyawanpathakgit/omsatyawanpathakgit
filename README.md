@@ -18,10 +18,9 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ## Professional Focus:
 
 - **Data Analytics** — SQL, MS Excel, Power BI, EDA
-- **Data Science** — Machine Learning, NLP, Deep Learning
-- **MLOps** — MLflow, ZenML, Docker, GitHub Actions
-- **Cloud ML** — AWS SageMaker
-- **Deep Learning** — CNN, LSTM
+- **BI Developer** - PowerBI, SQL, MS Excel, Python
+- **Data Science** — Machine Learning, NLP, Deep Learning, AWS
+- **ML Engineering** - Machine Learning, Docker, Flask, Deep Learning, NLP, Vercel
 
 
 
@@ -38,7 +37,7 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-### Data Science & Machine Learning
+### Data Science & Machine Learning Engineering:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -46,6 +45,9 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ![NLP](https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ## Skills:
@@ -54,7 +56,7 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 |---|---|
 | Data Analytics | SQL, MS Excel, Power BI, EDA |
 | Data Science | Python, Pandas, NumPy, Scikit-learn |
-| Machine Learning | Regression, Classification, Clustering, Feature Engineering |
+| Machine Learning Engineering| Regression, Classification, Clustering, Feature Engineering , Docker, Flask, Vercel|
 | NLP | Text Preprocessing, Vectorization, ML-based NLP |
 | Deep Learning | Neural Networks, CNN, LSTM |
 
@@ -73,21 +75,23 @@ End-to-end machine learning and MLOps project for predicting food delivery time.
 Python • Scikit-learn • ZenML • MLflow • Docker • GitHub Actions
 
 [View Project](https://github.com/omsatyawanpathakgit/DataScienceProjects/tree/main/Swiggy%20DS%20Project)
+[View Deployed Website](https://swiggyfooddeliveryprediction.vercel.app/)
 
 
-### Zomato Dish Recommendation System
+### Customer Churn Prediction System
 
-Machine-learning-based recommendation system for recommending dishes using restaurant and food data.
+Machine-learning-based model that predicts whether customers will withdraw from using a company's services.
 
 **Technologies:**  
-Python • Pandas • Scikit-learn • EDA • Recommendation Systems
+Python • Pandas • Scikit-learn • Flask • Vercel
 
-[View Project](https://github.com/omsatyawanpathakgit/DataScienceProjects/tree/main/Zomato%20Cusine%20Recommender%20System%20Project)
+[View Project](https://github.com/omsatyawanpathakgit/mldeployedprojects/tree/main/customerchurnprediction)
+[View Deployed Website](https://customerchurnprediction-liart.vercel.app/)
 
 
 ### All Data Analytics Projects:
 
-Interactive data analysis and business intelligence project.
+Interactive data analysis and business intelligence projects.
 
 **Technologies:**  
 SQL • MS Excel • Power BI • EDA
