@@ -89,15 +89,15 @@ Python • Pandas • Scikit-learn • Flask • Vercel
 [View Deployed Website](https://customerchurnprediction-liart.vercel.app/)
 
 
-### All Data Analytics Projects:
+### All Data Analytics and BI Developer Projects:
 
 Interactive data analysis and business intelligence projects.
 
 **Technologies:**  
 SQL • MS Excel • Power BI • EDA
 
-[View Project](https://github.com/omsatyawanpathakgit/DataAnalysisProjects)
-
+[View All Data Analytics Projects](https://github.com/omsatyawanpathakgit/DataAnalysisProjects)
+[View All BI Developer Projects](https://github.com/omsatyawanpathakgit/BIDeveloper-Projects)
 
 
 
