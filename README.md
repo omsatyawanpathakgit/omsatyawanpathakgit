@@ -72,7 +72,7 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 End-to-end machine learning and MLOps project for predicting food delivery time.
 
 **Technologies:**  
-Python • Scikit-learn • ZenML • MLflow • Docker • GitHub Actions
+Python • Scikit-learn • Docker • Flask • Vercel
 
 [View Project](https://github.com/omsatyawanpathakgit/DataScienceProjects/tree/main/Swiggy%20DS%20Project)
 [View Deployed Website](https://swiggyfooddeliveryprediction.vercel.app/)
