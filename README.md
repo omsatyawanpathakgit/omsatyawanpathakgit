@@ -42,7 +42,6 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Traditional_ML-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +56,6 @@ to reproducible ML pipelines and production-ready MLOps workflows.
 | Data Analytics | SQL, MS Excel, Power BI, EDA |
 | Data Science | Python, Pandas, NumPy, Scikit-learn |
 | Machine Learning Engineering| Regression, Classification, Clustering, Feature Engineering , Docker, Flask, Vercel|
-| NLP | Text Preprocessing, Vectorization, ML-based NLP |
 | Deep Learning | Neural Networks, CNN, LSTM |
 
 
